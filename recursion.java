@@ -22,8 +22,6 @@ class Rextester
         return n*factorial(n-1);
     }
     
-    
-    
     public static void main(String args[])
     {
         System.out.println(power(3,1));
